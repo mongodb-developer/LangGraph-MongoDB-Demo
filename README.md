@@ -1,5 +1,5 @@
 # LangGraph-MongoDB-Demo 🦜
-This MongoDB / LangGraph demo will allow you to:  Use real, structured data to build an interactive, visual representation of relationships. Identify patterns and insights from customer support data. Enhance the demo by showcasing how MongoDB’s flexibility with data structure integrates with LangGraph’s visualization and analysis tools
+This MongoDB / LangGraph demo will allow you to:  Use real, structured data to build an interactive, visual representation of relationships. Identify patterns and insights from customer support data. Enhance the demo by showcasing how MongoDB’s flexibility with data structure integrates with LangGraph’s visualization and analysis tools * Assumes you have LangGraph Studio installed https://studio.langchain.com/
 
 Here’s a step-by-step guide to set up a new project directory for your MongoDB and LangGraph integration:
 
