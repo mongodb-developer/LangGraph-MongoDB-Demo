@@ -16,11 +16,13 @@ cd mongodb_integration_demo
 Within this directory, create a structure for your project. Here’s a simple structure to start:
 ```
 mongodb_integration_demo/
-├── .env               # For environment variables like MongoDB URI
-├── main.py            # Main script to run the demo
-├── data/              # Folder for any static data files or samples
-├── config/            # Configuration files if needed
-└── utils/             # Utility scripts for data processing
+├── .env                   # MongoDB connection string
+├── main.py                # Main script
+├── data/                  # Static data or samples
+├── config/                # Config files
+├── utils/                 # Utility scripts
+│   ├── movie_processor.py # NEW: Processes movie data
+│   └── graph_builder.py   # NEW: Builds graphs for visualization
 ```
 3. Create the .env File
 Create a .env file in the project directory to store your MongoDB connection string:
