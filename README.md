@@ -1,5 +1,5 @@
 # LangGraph-MongoDB-Demo 🦜
-This MongoDB / LangGraph demo will allow you to:  Use real, structured data to build an interactive, visual representation of relationships.  * Assumes you have LangGraph Studio installed https://studio.langchain.com/
+This MongoDB / LangGraph demo will allow you to:  Use real, structured data to build an interactive, visual representation of relationships.  * Assumes you have LangGraph Studio installed https://studio.langchain.com/ Uses the Sample_Mflix movie data base to make it easy
 
 Here’s a step-by-step guide to set up a new project directory for your MongoDB and LangGraph integration:
 
